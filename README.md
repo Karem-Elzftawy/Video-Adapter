@@ -9,5 +9,5 @@ DVR for just one analog Camera
 
 ### [All the circuit ICs Datasheets](https://github.com/Karem-Elzftawy/Video-Adapter/tree/master/DataSheets)
 
-### [Tutorial]()
+### [Tutorial](https://github.com/Karem-Elzftawy/Video-Adapter/blob/master/Video_Adapter-Tutorial.pdf)
 
